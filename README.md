@@ -1,6 +1,5 @@
 # Marketing-Analytics-CRUD-Python
 This Python-based tool is designed to help marketing teams gather, organize, and analyze data from Facebook Ad campaigns.
-Absolutely! Here's a README file for your Facebook Ads CRUD program that you can use on GitHub:
 
 # Facebook Ads Marketing Analysis Tool
 
