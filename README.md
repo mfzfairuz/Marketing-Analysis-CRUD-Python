@@ -6,21 +6,19 @@ This Python-based tool is designed to help marketing teams gather, organize, and
 ## Business Understanding
 Description: This tool simplifies the management and analysis of Facebook Ads data, allowing marketers to track campaign performance and make data-driven decisions. It focuses on collecting essential metrics like ad spend, reach, clicks, conversions, and more.
 
-## Purpose: The primary purpose is to empower marketing teams to:
+## Purpose: 
+### 1. Centralize Data: Store and organize Facebook Ads data in a structured format for easy access.
+### 2. Track Performance: Monitor key metrics to evaluate the effectiveness of campaigns.
+### 3. Gain Insights: Calculate and visualize KPIs to identify trends and areas for improvement.
+### 4. Get Recommendations: Receive data-driven suggestions to optimize ad campaigns and budget allocation.
 
-### Centralize Data: Store and organize Facebook Ads data in a structured format for easy access.
-Track Performance: Monitor key metrics to evaluate the effectiveness of campaigns.
-Gain Insights: Calculate and visualize KPIs to identify trends and areas for improvement.
-Get Recommendations: Receive data-driven suggestions to optimize ad campaigns and budget allocation.
-Benefits:
-
-### Time Savings: Automate manual data collection and analysis processes.
-Improved Decision-Making: Provide actionable insights for better campaign optimization.
-Increased Efficiency: Identify and eliminate underperforming campaigns.
-Cost Reduction: Optimize ad spending by focusing on high-performing strategies.
+## Benefits:
+### 1. Time Savings: Automate manual data collection and analysis processes.
+### 2. Improved Decision-Making: Provide actionable insights for better campaign optimization.
+### 3. Increased Efficiency: Identify and eliminate underperforming campaigns.
+### 4. Cost Reduction: Optimize ad spending by focusing on high-performing strategies.
 
 ## Target User:
-
 This tool is primarily designed for marketing teams, digital marketers, and anyone responsible for managing and analyzing Facebook Ad campaigns. It's suitable for both small businesses and larger organizations.
 
 ## Overview
