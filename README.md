@@ -1,7 +1,5 @@
-# Marketing-Analytics-CRUD-Python
+# Marketing-Analysis-CRUD-Python for Facebook Advertising Optimization
 This Python-based tool is designed to help marketing teams gather, organize, and analyze data from Facebook Ad campaigns.
-
-# Facebook Ads Marketing Analysis Tool
 
 ## Business Understanding
 Description: This tool simplifies the management and analysis of Facebook Ads data, allowing marketers to track campaign performance and make data-driven decisions. It focuses on collecting essential metrics like ad spend, reach, clicks, conversions, and more.
